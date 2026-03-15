@@ -1,4 +1,3 @@
-
 # Career Level Classification using Machine Learning
 
 ## Project Overview
@@ -134,21 +133,17 @@ The model evaluation includes:
 
 Shows prediction performance across all classes.
 
-
 ![Confusion Matrix](output/confusion_matrix.png)
+
+
 ### F1 Score per Class
 
-```
-outputs/f1_score.png
-```
+![F1 Score](output/F1-score.png)
 
 ### Class Distribution After SMOTE
 
-```
-outputs/class_distribution.png
-```
+![Class Distribution](output/class_distribution_smote.png)
 
----
 
 ## Model Saving
 
