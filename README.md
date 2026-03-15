@@ -135,12 +135,7 @@ The model evaluation includes:
 Shows prediction performance across all classes.
 
 ```
-outputs/confusion_matrix.png
 ![Confusion Matrix](output/confusion_matrix.png)
-
-
-
-
 ```
 
 ### F1 Score per Class
